@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":["g1f3"],"max_depth":4,"max_nodes":2000,"objective":"Verify Nf3 as the top development move after 1...d5.","rationale":"Broad depth-3 search gave Nf3 the only exact bound at score 55. Verify single candidate at depth 4 for tactical safety and mate refutations."}},"raw_record":"records/e730b7d323fb6473444a.json"}

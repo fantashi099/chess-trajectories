@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Start mandatory broad coverage of every legal root move before selecting any candidate.","objective":"Search all legal White moves at depth 3 to rank candidates and expose tactics.","max_nodes":3000,"max_depth":3,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/903cc6ef25a82d1155da.json"}

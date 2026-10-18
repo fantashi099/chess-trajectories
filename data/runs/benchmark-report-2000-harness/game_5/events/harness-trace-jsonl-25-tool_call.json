@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Complete broad coverage at depth 3 within broad node allowance before selecting a candidate.","objective":"Search all legal moves to find best reply to the queen on b5 and Black's loose center pawns.","max_nodes":3000,"max_depth":3,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/926bfe92fdd319440174.json"}

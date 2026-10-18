@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over all king moves to find best play in this pawn endgame.","rationale":"c3d4 (now d4) continues; broad search required before any commit. Evaluate Kc3/Kc5/Kd3/Ke3.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/a608c07d09f12fbf0de8.json"}

@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad search over all legal White moves before choosing.","rationale":"Phase is broad_search; all roots must be covered at depth 1+ before selecting a candidate. No candidates are shortlisted yet."}},"raw_record":"records/fe6baf1968f6ff732b9e.json"}

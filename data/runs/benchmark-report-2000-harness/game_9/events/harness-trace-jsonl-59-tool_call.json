@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad depth-4 coverage of all legal White moves to identify the best candidates.","rationale":"No analyses yet; must complete broad search over all roots before selecting a candidate to verify."}},"raw_record":"records/868236cc082160f384f3.json"}

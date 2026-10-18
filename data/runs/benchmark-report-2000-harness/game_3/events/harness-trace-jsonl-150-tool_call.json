@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad Search at depth 4 over all legal roots","rationale":"Required initial breadth-first search to compare every legal White move with shared exact final depth before selecting a candidate for verification."}},"raw_record":"records/b22ac2d40b9177dd6799.json"}

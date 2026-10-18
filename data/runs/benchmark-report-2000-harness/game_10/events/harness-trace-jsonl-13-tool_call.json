@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over all legal root moves at depth 3-4.","rationale":"Broad search is required; candidate_moves=[] to cover every legal root. Using half the node budget at target depth 4 as instructed.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/2ff35fc0e7f7fad3ca54.json"}

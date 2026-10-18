@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Verify g2g3 with reserved nodes, checking safety and score at full depth.","rationale":"Broad search suggested g2g3 as exact top move (score 39, depth 3). No commit_ready moves yet; verify it fully before committing.","action":"analyze","candidate_moves":["g2g3"],"max_nodes":2000,"max_depth":4}},"raw_record":"records/7a16a28b380bdd49a400.json"}

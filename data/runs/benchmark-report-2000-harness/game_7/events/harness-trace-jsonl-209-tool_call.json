@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Start required broad search over all four legal moves at depth 4 within the 3000-node broad budget.","objective":"Compare all legal White moves at depth 4; assess rook-pawn ending draw chances and king safety.","max_nodes":3000,"max_depth":4,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/0fd0c83b971993508563.json"}

@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Broad search all legal root moves at depth 4","rationale":"First broad search over every legal root move to establish evidence; the position is materially bad, so find the best practical resource."}},"raw_record":"records/d2714a81d75d6054ffbf.json"}

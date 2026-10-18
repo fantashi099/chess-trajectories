@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"verify","rationale":"Verify the broad-search top move f4g4 at max depth, using the reserved verification budget.","action":"analyze","candidate_moves":["f4g4"],"max_nodes":2496,"max_depth":4}},"raw_record":"records/ebc798182ab149243e51.json"}

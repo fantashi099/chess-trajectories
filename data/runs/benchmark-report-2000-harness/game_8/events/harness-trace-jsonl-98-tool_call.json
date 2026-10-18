@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Verify Qf5 and alternatives before committing.","rationale":"Broad search at depth 2 gave exact score 5 for g5f5 but only depth 2; need single-candidate verification at higher depth.","action":"analyze","candidate_moves":["g5f5"],"max_nodes":2000,"max_depth":4}},"raw_record":"records/d9c678a6547fa183f072.json"}

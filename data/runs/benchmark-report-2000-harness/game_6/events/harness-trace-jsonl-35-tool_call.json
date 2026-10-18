@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over all legal moves, then choose and verify a candidate.","rationale":"Phase is broad_search; no analyses done yet. Empty candidate list covers all roots at shallow depth using half the node budget.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":3}},"raw_record":"records/039b01586863befd6025.json"}

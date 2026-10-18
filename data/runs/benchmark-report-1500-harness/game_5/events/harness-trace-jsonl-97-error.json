@@ -1,0 +1,1 @@
+{"evidence":{"error":"Incomplete LLM response (finish_reason=error, max_completion_tokens=4096); return complete concise action JSON","status":"rejected"},"raw_record":"records/822f5ff6b6a24518e49c.json"}

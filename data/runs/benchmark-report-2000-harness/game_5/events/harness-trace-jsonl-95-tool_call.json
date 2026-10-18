@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Opening the search with full broad coverage at depth 4, using half the node budget as instructed.","objective":"Complete broad-search coverage of every legal White move before selecting a candidate for verification.","max_nodes":3000,"max_depth":4,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/8aa94041f74a44491353.json"}

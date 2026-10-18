@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad depth-3 search over all legal roots to identify best candidates.","rationale":"Broad search required; no analyses yet. Budget 3000 nodes, depth 3 to keep coverage within allowance.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":3}},"raw_record":"records/e25aed7ede993f6d25cd.json"}

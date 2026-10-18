@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search across all legal opening moves","rationale":"Phase=broad_search requires candidate_moves=[] with full coverage at depth 4, using at most half the node budget. No prior evidence exists.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/e8614e1b24c138661211.json"}

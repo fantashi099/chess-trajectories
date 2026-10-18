@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad root coverage to identify the best move under the current king-attack position.","rationale":"First call must do full-depth-4 broad search over all legal roots; no candidate shortlist yet per contract.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/cc0f95c04da24bc3e180.json"}

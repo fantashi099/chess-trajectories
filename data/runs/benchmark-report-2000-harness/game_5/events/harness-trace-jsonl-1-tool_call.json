@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Broad search all legal opening moves at depth 4","rationale":"Start with full root coverage using at most half node budget; no candidate shortlist yet.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/e8614e1b24c138661211.json"}

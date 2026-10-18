@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Commit Nc3 after full-depth verification.","rationale":"b1c3 verified at depth 4 (score 0, exact), no immediate tactics, safe from mate-in-one. Develops a knight toward the center, consistent with the opening plan.","action":"commit","move":"b1c3","continuation":["b1c3","b8c6","g1f3","g8f6"]}},"raw_record":"records/e730b7d323fb6473444a.json"}

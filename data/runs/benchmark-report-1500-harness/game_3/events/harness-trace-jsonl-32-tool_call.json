@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Initial broad search required; no analyses completed yet. Cover all legal root moves at depth 4 within half the node budget.","objective":"Broad search over all legal White moves to identify candidates.","max_nodes":3000,"max_depth":4,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/fded4781007fa0d529a9.json"}

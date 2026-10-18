@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over the only two legal king moves and compare scores","rationale":"In check; only legal moves are e1e2 and f1f2. Need full depth-1 coverage of both roots before choosing a candidate.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/7a16a28b380bdd49a400.json"}

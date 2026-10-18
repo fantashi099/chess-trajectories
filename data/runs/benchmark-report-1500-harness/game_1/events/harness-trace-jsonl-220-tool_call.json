@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad search over all legal moves; find fastest forced mate.","rationale":"Broad search required at depth 4 before selecting any candidate. Position is won; verify mate-in-2/3 lines like Qg8+ or Rg7+."}},"raw_record":"records/3f1761aae921fc0df178.json"}

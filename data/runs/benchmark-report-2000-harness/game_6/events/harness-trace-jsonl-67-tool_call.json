@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Start with full-width depth 4 broad search to identify the best candidates from all 39 legal roots.","objective":"Complete broad search over all legal moves at depth 4","max_nodes":3000,"max_depth":4,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/705e2c9b927b7403deb2.json"}

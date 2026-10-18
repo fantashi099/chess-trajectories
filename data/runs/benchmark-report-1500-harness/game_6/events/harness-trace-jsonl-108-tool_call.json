@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Cover all three legal check evasions","rationale":"White is in check from Qb1; only e1d2, e1e2, h5d1 are legal. Broad search first, then verify the best candidate.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/d953bfa5e8af958e8b0d.json"}

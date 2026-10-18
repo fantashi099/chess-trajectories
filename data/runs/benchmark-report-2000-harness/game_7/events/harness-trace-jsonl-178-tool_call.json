@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad search over all legal king moves in this pawn endgame","rationale":"Required initial broad coverage: enumerate every legal root move to depth 4 before selecting and verifying a single candidate."}},"raw_record":"records/5bc4bacd090e53a7379e.json"}

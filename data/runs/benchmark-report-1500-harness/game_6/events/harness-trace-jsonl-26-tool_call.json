@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over all legal root moves at depth 4 to identify best candidates.","rationale":"Mandatory initial broad coverage; no candidate shortlist yet. Need evidence on Nxe5 recapture lines and piece play.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/86ef737a70e0cf1abdff.json"}

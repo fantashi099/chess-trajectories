@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over all legal moves at depth 4","rationale":"Phase is broad_search with no analyses yet; must cover all root moves before selecting a candidate. Budget allows 3000 nodes at depth 4.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/e7946b6f6bf7e3c5b6ff.json"}

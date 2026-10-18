@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":["c2b4"],"max_depth":4,"max_nodes":2000,"objective":"Verify Nb4 by searching its line to depth 4","rationale":"Reserved verification for suggested move c2b4; use its 2000-node allowance to confirm or refute before deciding."}},"raw_record":"records/265d72d3a6e0999589e5.json"}

@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad-search coverage of all legal White moves before selecting a candidate.","rationale":"Required initial phase: candidate_moves empty to cover every legal root at depth 4 within the broad-search allowance.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/e7a9a402d1ba9b670cce.json"}

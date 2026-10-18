@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad search at depth 4 over all legal root moves to identify the best candidate.","rationale":"Broad search is required before any commit. Full root coverage at target depth 4 within the analysis node allowance."}},"raw_record":"records/ad053af96d7d5484048d.json"}

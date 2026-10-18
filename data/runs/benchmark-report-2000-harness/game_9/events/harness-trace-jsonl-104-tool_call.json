@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Starting broad search over all legal roots at depth 3 within the analysis node allowance, before selecting a candidate to verify.","objective":"Complete broad search over all legal moves","max_nodes":3000,"max_depth":3,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/f0f9e4bd06e165fb1216.json"}

@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad search over all legal root moves.","rationale":"In check from ...Rd1; only legal move is Kf2. Required broad search must cover all legal roots before committing."}},"raw_record":"records/5d46ba9318b900dfbb25.json"}

@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Broad search of all legal White moves at depth 4","rationale":"No prior analysis exists; I must start with full root coverage to compare tactics, king safety and material before selecting a move."}},"raw_record":"records/96d1c31f68528122b53d.json"}

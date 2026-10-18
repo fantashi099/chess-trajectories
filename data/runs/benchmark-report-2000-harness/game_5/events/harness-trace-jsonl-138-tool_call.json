@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"King walk to a2 is the only legal move; commit it.","rationale":"Only legal move in check from Qc1. Proven mate-in-2 via Qxd2+ followed by Rc1# along the open c-file. Position is lost regardless; no alternative exists.","action":"commit","move":"b1a2","accept_risk":true}},"raw_record":"records/f004b58dbfd5f976f3df.json"}

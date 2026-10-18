@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad coverage of all legal opening moves at shallow depth","rationale":"Broad search required before committing; cover all 20 legal root moves at depth 3 within half the node budget.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":3}},"raw_record":"records/e8614e1b24c138661211.json"}

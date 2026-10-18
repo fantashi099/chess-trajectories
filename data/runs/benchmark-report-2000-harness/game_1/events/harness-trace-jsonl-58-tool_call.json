@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad coverage of all four legal king/rook replies in check","rationale":"In check from Qh3; only four legal moves. Need full-root depth-4 search before selecting a candidate for verification."}},"raw_record":"records/6613f0887500b3055a80.json"}

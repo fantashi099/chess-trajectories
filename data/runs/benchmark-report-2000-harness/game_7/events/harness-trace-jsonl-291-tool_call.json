@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Survey all legal king moves in this K+R vs K ending","rationale":"Broad search required before selecting; only five legal king moves, so cover all roots at depth 4 to see Black replies and checks."}},"raw_record":"records/94e1646a3014d9c0bfb1.json"}

@@ -1,0 +1,1 @@
+{"evidence":{"action":{"rationale":"Start broad search over all legal roots at depth 3 within the analysis node allowance.","objective":"Compare all legal moves to find the best White plan in this rook-and-knight endgame.","max_nodes":3000,"max_depth":3,"candidate_moves":[],"action":"analyze"}},"raw_record":"records/31fb00c9d149da5e3d7b.json"}

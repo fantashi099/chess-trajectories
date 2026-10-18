@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad coverage of all legal opening moves","rationale":"Opening position; need full root coverage at depth 4 to identify sound development and center moves before selecting a candidate for verification."}},"raw_record":"records/e8614e1b24c138661211.json"}

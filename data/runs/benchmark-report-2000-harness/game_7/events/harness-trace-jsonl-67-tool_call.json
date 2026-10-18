@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad search over all 31 legal root moves at depth 4","rationale":"No prior analyses exist; must cover every root at depth 4 within the broad-search node allowance before selecting a candidate for verification."}},"raw_record":"records/705e2c9b927b7403deb2.json"}

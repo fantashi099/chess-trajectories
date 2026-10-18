@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Verify all legal root moves at depth 4 to establish broad coverage.","rationale":"Broad search at depth 3 was cutoff-reached and no move is committed; a full coverage before selecting is required.","action":"analyze","candidate_moves":[],"max_nodes":1000,"max_depth":4}},"raw_record":"records/31481ff0160833566c07.json"}

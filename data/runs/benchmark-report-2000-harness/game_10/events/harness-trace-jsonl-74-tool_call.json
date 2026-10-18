@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Broad search over all legal white moves to identify the best plan.","rationale":"Initial wide coverage at depth 4 to find top candidates; prior line had White winning material with Bc5+; Black played Kd8."}},"raw_record":"records/4ec831405dff5703dbe3.json"}

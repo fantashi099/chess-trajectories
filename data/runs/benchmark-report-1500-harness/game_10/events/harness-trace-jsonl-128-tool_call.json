@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Broad search over all legal White moves to find an exact score and identify commit candidates.","rationale":"Fresh position after e7e6; no prior exact evidence. Broad coverage required before any commit decision."}},"raw_record":"records/d0bc0e906e20b1a45d51.json"}

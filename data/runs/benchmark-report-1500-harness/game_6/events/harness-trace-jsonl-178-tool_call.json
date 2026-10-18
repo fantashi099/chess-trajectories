@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over all legal moves in check","rationale":"Only one legal move exists (f2g1). Single analysis covers broad search and verification for this forced king move.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/5bc4bacd090e53a7379e.json"}

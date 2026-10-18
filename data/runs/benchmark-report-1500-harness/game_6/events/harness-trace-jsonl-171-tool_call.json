@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Verify b7b4, the top exact-scored candidate","rationale":"Broad depth-3 search gives b7b4 exact -225, clearly best. Analyze it alone with the reserved 2000 nodes for full-depth verification and tactical refutation.","action":"analyze","candidate_moves":["b7b4"],"max_nodes":2000,"max_depth":4}},"raw_record":"records/e2d5914a14a73e04f605.json"}

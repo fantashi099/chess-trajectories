@@ -1,0 +1,1 @@
+{"evidence":{"action":{"action":"analyze","candidate_moves":[],"max_depth":4,"max_nodes":3000,"objective":"Complete broad search over both legal king moves","rationale":"In check from Qg1; only d1c2 and d1e2 are legal. Broad coverage of all roots is required before choosing."}},"raw_record":"records/5c202f7cfc2663f5fca8.json"}

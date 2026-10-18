@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad depth-4 search over all legal moves before selecting.","rationale":"First call requires full broad coverage; no candidate pruning since scores unknown and rook/knight tactics need comparison.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/8601d150b7408eb96020.json"}

@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"You play White. Read the actual opponent configuration from context.","rationale":"Commit-ready move f6e5 surfaced: exact score -604 at depth 4, complete immediate-mate safety, no tactical refutation. Strictly the best verified candidate available.","action":"commit","move":"f6e5"}},"raw_record":"records/6bf55928c2023a930fc1.json"}

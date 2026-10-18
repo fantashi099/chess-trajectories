@@ -1,0 +1,1 @@
+{"evidence":{"action":{"objective":"Complete broad search over all legal White moves at depth 4.","rationale":"Broad search first to establish exact evidence across all roots before selecting any candidate; no prior analysis exists.","action":"analyze","candidate_moves":[],"max_nodes":3000,"max_depth":4}},"raw_record":"records/b2413786fd93d2392b4b.json"}
